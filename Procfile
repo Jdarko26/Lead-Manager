@@ -1,0 +1,1 @@
+web gunicorn leadmanger.wsgi:application --log-file -
